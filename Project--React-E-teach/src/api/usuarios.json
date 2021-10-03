@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nombre": "Jorge Torres",
+    "rol": "capacitador",
+    "videos": "156",
+    "especialidades": [
+      "zoom",
+      "google meet",
+      "microsoft team"
+    ],
+    "fecha": "01-10-2021"
+  },
+  {
+    "id": "2",
+    "nombre": "Daniel Torres",
+    "rol": "docente",
+    "videos": "",
+    "especialidades": [],
+    "fecha": "01-10-2021"
+  },
+  {
+    "id": "3",
+    "nombre": "Carlos Mamani",
+    "rol": "administrador",
+    "videos": "",
+    "especialidades": [],
+    "fecha": "01-10-2021"
+  }
+]

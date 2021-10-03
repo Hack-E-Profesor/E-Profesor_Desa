@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "google meetings",
+    "logo":"./source/cursos/googlemeet.jpg",
+    "description": "Plataforma web, realizada por google",
+    "fecha":"02-10-2021",
+    "videosDisponibles":165
+  },
+  {
+    "nombre": "Zoom",
+    "logo":"./source/cursos/zoom.jpg",
+    "description": "Plataforma web, realizada por Eric Yuan",
+    "fecha":"02-10-2021",
+    "videosDisponibles":165
+  },
+  {
+    "nombre": "Microsoft Teams",
+    "logo":"./source/cursos/microsoft-team.jpg",
+    "description": "Plataforma web, realizada por Microsoft",
+    "fecha":"02-10-2021",
+    "videosDisponibles":165
+  }
+]
